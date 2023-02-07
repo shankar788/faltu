@@ -1,3 +1,3 @@
 class User < ApplicationRecord
-    sdsdsd
+    model
 end
